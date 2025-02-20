@@ -1,6 +1,6 @@
 // [PS4] CoD - Black Ops III
-// Multiplayer Offsets ( Local Play )
-// Credits: @llHive [ AKA: Muath ]
+// Multiplayer Offsets (Local Play)
+// Credits: @qMuath
 
 /* { "Type", Offset } */
 

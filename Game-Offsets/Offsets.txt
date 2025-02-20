@@ -1,0 +1,238 @@
+// [PS4] CoD - Black Ops III
+// Multiplayer Offsets ( Local Play )
+// Credits: @llHive [ AKA: Muath ]
+
+/* { "Type", Offset } */
+
+// Classnames Offsets
+{ "Classname 1", 0x1D40 - 0x1D4D }
+{ "Classname 2", 0x1D50 - 0x1D5D }
+{ "Classname 3", 0x1D60 - 0x1D6D }
+{ "Classname 4", 0x1D70 - 0x1D7D }
+{ "Classname 5", 0x1D80 - 0x1D8D }
+
+
+// Primary Weapons Offsets Per Class
+{ "Primary-Weapon Class 1", 0x1939 }
+{ "Primary-Weapon Class 2", 0x19A2 }
+{ "Primary-Weapon Class 3", 0x1A0B }
+{ "Primary-Weapon Class 4", 0x1A74 }
+{ "Primary-Weapon Class 5", 0x1ADD }
+
+
+// Primary Weapon (Camo) Offsets Per Class
+{ "Primary-Camo Class 1", 0x1934 }
+{ "Primary-Camo Class 2", 0x199D }
+{ "Primary-Camo Class 3", 0x1A06 }
+{ "Primary-Camo Class 4", 0x1A6F }
+{ "Primary-Camo Class 5", 0x1AD8 }
+
+
+// Primary Weapon (Optic/Attachments/Weapon-Prestige Slot) Offsets Per Class
+{ "Primary-Optic Class 1", 0x193C }
+{ "Primary-Attachment-1 Class 1", 0x193D }
+{ "Primary-Attachment-2 Class 1", 0x193E }
+{ "Primary-Attachment-3 Class 1", 0x193F }
+{ "Primary-Attachment-4 Class 1", 0x1940 }
+{ "Primary-Attachment-5 Class 1", 0x1941 }
+{ "Primary-Attachment-6 Class 1", 0x1942 } // Weapon-Prestige
+
+{ "Primary-Optic Class 2", 0x19A5 }
+{ "Primary-Attachment-1 Class 2", 0x19A6 }
+{ "Primary-Attachment-2 Class 2", 0x19A7 }
+{ "Primary-Attachment-3 Class 2", 0x19A8 }
+{ "Primary-Attachment-4 Class 2", 0x19A9 }
+{ "Primary-Attachment-5 Class 2", 0x19AA }
+{ "Primary-Attachment-6 Class 2", 0x19AB } // Weapon-Prestige
+
+{ "Primary-Optic Class 3", 0x1A0E }
+{ "Primary-Attachment-1 Class 3", 0x1A0F }
+{ "Primary-Attachment-2 Class 3", 0x1A10 }
+{ "Primary-Attachment-3 Class 3", 0x1A11 }
+{ "Primary-Attachment-4 Class 3", 0x1A12 }
+{ "Primary-Attachment-5 Class 3", 0x1A13 }
+{ "Primary-Attachment-6 Class 3", 0x1A0F } // Weapon-Prestige
+
+{ "Primary-Optic Class 4", 0x1A77 }
+{ "Primary-Attachment-1 Class 4", 0x1A78 }
+{ "Primary-Attachment-2 Class 4", 0x1A79 }
+{ "Primary-Attachment-3 Class 4", 0x1A7A }
+{ "Primary-Attachment-4 Class 4", 0x1A7B }
+{ "Primary-Attachment-5 Class 4", 0x1A7C }
+{ "Primary-Attachment-6 Class 4", 0x1A7D } // Weapon-Prestige
+
+{ "Primary-Optic Class 5", 0x1AE0 }
+{ "Primary-Attachment-1 Class 5", 0x1AE1 }
+{ "Primary-Attachment-2 Class 5", 0x1AE2 }
+{ "Primary-Attachment-3 Class 5", 0x1AE3 }
+{ "Primary-Attachment-4 Class 5", 0x1AE4 }
+{ "Primary-Attachment-5 Class 5", 0x1AE5 }
+{ "Primary-Attachment-6 Class 5", 0x1AE6 } // Weapon-Prestige
+
+
+// Secondary Weapon Offsets Per Class
+{ "Secondary-Weapon Class 1", 0x197C }
+{ "Secondary-Weapon Class 2", 0x19E5 }
+{ "Secondary-Weapon Class 3", 0x1A4E }
+{ "Secondary-Weapon Class 4", 0x1AB7 }
+{ "Secondary-Weapon Class 5", 0x1B20 }
+
+
+// Secondary Weapon (Camo) Offsets Per Class
+{ "Secondary-Camo Class 1", 0x197D }
+{ "Secondary-Camo Class 2", 0x19E6 }
+{ "Secondary-Camo Class 3", 0x1A4E }
+{ "Secondary-Camo Class 4", 0x1AB8 }
+{ "Secondary-Camo Class 5", 0x1B21 }
+
+
+// Secondary Weapon (Optic/Attachment/Weapon-Prestige Slot) Offsets Per Class
+{ "Secondary-Optic Class 1", 0x1971 }
+{ "Secondary-Attachment-1 Class 1", 0x1972 }
+{ "Secondary-Attachment-2 Class 1", 0x1973 }
+{ "Secondary-Attachment-3 Class 1", 0x1974 } // Weapon-Prestige
+
+{ "Secondary-Optic Class 2", 0x19DA }
+{ "Secondary-Attachment-1 Class 2", 0x197B }
+{ "Secondary-Attachment-2 Class 2", 0x197C }
+{ "Secondary-Attachment-3 Class 2", 0x197D } // Weapon-Prestige
+
+{ "Secondary-Optic Class 3", 0x1A43 }
+{ "Secondary-Attachment-1" Class 3, 0x1A44 }
+{ "Secondary-Attachment-2" Class 3, 0x1A45 }
+{ "Secondary-Attachment-3" Class 3, 0x1A46 } // Weapon-Prestige
+
+{ "Secondary-Optic Class 4", 0x1AAC }
+{ "Secondary-Attachment-1 Class 4", 0x1AAD }
+{ "Secondary-Attachment-2 Class 4", 0x1AAE }
+{ "Secondary-Attachment-3 Class 4", 0x1AAF } // Weapon-Prestige
+
+{ "Secondary-Optic Class 5", 0x1B15 }
+{ "Secondary-Attachment-1 Class 5", 0x1B16 }
+{ "Secondary-Attachment-2 Class 5", 0x1B17 }
+{ "Secondary-Attachment-3 Class 5", 0x1B18 } // Weapon-Prestige
+
+
+// Lethal (Upper Slot) Offsets Per Class
+{ "Upper Lethal Class 1", 0x1963 }
+{ "Upper Lethal Class 2", 0x19CC }
+{ "Upper Lethal Class 3", 0x1A35 }
+{ "Upper Lethal Class 4", 0x1A9E }
+{ "Upper Lethal Class 5", 0x1B07 }
+
+
+// Lethal (Bottom Slot) Offsets Per Class
+{ "Bottom Lethal Class 1", 0x198A }
+{ "Bottom Lethal Class 2", 0x19F3 }
+{ "Bottom Lethal Class 3", 0x1A5C }
+{ "Bottom Lethal Class 4", 0x1AC5 }
+{ "Bottom Lethal Class 5", 0x1B2E }
+
+
+// Tactical (Upper Slot) Offsets Per Class
+{ "Upper Tactical Class 1", 0x1945 }
+{ "Upper Tactical Class 2", 0x19AE }
+{ "Upper Tactical Class 3", 0x1A17 }
+{ "Upper Tactical Class 4", 0x1A80 }
+{ "Upper Tactical Class 5", 0x1AE9 }
+
+
+// Tactical (Bottom Slot) Offsets Per Class
+{ "Bottom Tactical Class 1" 0x1959 }
+{ "Bottom Tactical Class 2" 0x19C2 }
+{ "Bottom Tactical Class 3" 0x1A2B }
+{ "Bottom Tactical Class 4" 0x1A94 }
+{ "Bottom Tactical Class 5" 0x1AFD }
+
+
+// Perk 1 (Upper Slot) Offsets Per Class
+{ "Upper Perk-1 Class 1", 0x1950 }
+{ "Upper Perk-1 Class 2", 0x19B9 }
+{ "Upper Perk-1 Class 3", 0x1A22 }
+{ "Upper Perk-1 Class 4", 0x1A8B }
+{ "Upper Perk-1 Class 5", 0x1AF4 }
+
+
+// Perk 1 (Bottom Slot) Offsets Per Slot
+{ "Bottom Perk-1 Class 1", 0x1953 }
+{ "Bottom Perk-1 Class 2", 0x19BC }
+{ "Bottom Perk-1 Class 3", 0x1A25 }
+{ "Bottom Perk-1 Class 4", 0x1A8E }
+{ "Bottom Perk-1 Class 5", 0x1AF7 }
+
+
+// Perk 2 (Upper Slot) Offsets Per Class
+{ "Upper Perk-2 Class 1", 0x1951 }
+{ "Upper Perk-2 Class 2", 0x19BA }
+{ "Upper Perk-2 Class 3", 0x1A23 }
+{ "Upper Perk-2 Class 4", 0x1A8C }
+{ "Upper Perk-2 Class 5", 0x1AF5 }
+
+
+// Perk 2 (Bottom Slot) Offsets Per Slot
+{ "Bottom Perk-2 Class 1", 0x1954 }
+{ "Bottom Perk-2 Class 2", 0x19BD }
+{ "Bottom Perk-2 Class 3", 0x1A26 }
+{ "Bottom Perk-2 Class 4", 0x1A8F }
+{ "Bottom Perk-2 Class 5", 0x1AF8 }
+
+
+// Perk 3 (Upper Slot) Offsets Per Class
+{ "Bottom Perk-2 Class 1", 0x1952 }
+{ "Bottom Perk-2 Class 2", 0x19BB }
+{ "Bottom Perk-2 Class 3", 0x1A24 }
+{ "Bottom Perk-2 Class 4", 0x1A8D }
+{ "Bottom Perk-2 Class 5", 0x1AF6 }
+
+
+// Perk 3 (Bottom Slot) Offsets Per Class
+{ "Bottom Perk-3 Class 1", 0x1955 }
+{ "Bottom Perk-3 Class 2", 0x19BE }
+{ "Bottom Perk-3 Class 3", 0x1A27 }
+{ "Bottom Perk-3 Class 4", 0x1A90 }
+{ "Bottom Perk-3 Class 5", 0x1AF9 }
+
+
+// Wildcard (Left-Slot) Offsets Per Class
+{ "Left-Wildcard Class 1", 0x195C }
+{ "Left-Wildcard Class 2", 0x19C5 }
+{ "Left-Wildcard Class 3", 0x1A2E }
+{ "Left-Wildcard Class 4", 0x1A97 }
+{ "Left-Wildcard Class 5", 0x1B00 }
+
+
+// Wildcard (Middle-Slot) Offsets Per Class
+{ "Middle-Wildcard Class 1", 0x195D }
+{ "Middle-Wildcard Class 2", 0x19C6 }
+{ "Middle-Wildcard Class 3", 0x1A2F }
+{ "Middle-Wildcard Class 4", 0x1A98 }
+{ "Middle-Wildcard Class 5", 0x1B01 }
+
+
+// Wildcard (Right-Slot) Offsets Per Class
+{ "Right-Wildcard Class 1", 0x195E }
+{ "Right-Wildcard Class 2", 0x19C7 }
+{ "Right-Wildcard Class 3", 0x1A30 }
+{ "Right-Wildcard Class 4", 0x1A99 }
+{ "Right-Wildcard Class 5", 0x1B02 }
+
+
+// Scoretreaks Offsets
+{ "Left Scorestreak", 0x122 }
+{ "Middle Scorestreak", 0x123 }
+{ "Right Scorestreak", 0x124 }
+
+
+// Specialists Showcase Weapon Offsets
+{ "Ruin Showcase-Weapon", 0x354 }
+{ "Outrider Showcase-Weapon", 0x582 }
+{ "Messenger Showcase-Weapon", 0X7B0 }
+{ "Battery Showcase-Weapon", 0x9DE }
+{ "Seraph Showcase-Weapon", 0xC0C }
+{ "Nomad Showcase-Weapon", 0xE3A }
+{ "Reaper Showcase-Weapon", 0x1068 }
+{ "Spectre Showcase-Weapon", 0x1296 }
+{ "Firebreak Showcase-Weapon", 0x14C4 }
+
+// Other Offsets
+{ "User-Clantag", 0xC3F8 - 0xC3FB } // Located (stats_mp_offline) File
